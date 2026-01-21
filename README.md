@@ -1,4 +1,4 @@
-## **LESig(LUAD-ECM.Sig Shiny App)**
+## **LESig (LUAD-ECM.Sig Shiny App)**
 
 A user-friendly Shiny application for Lung Adenocarcinoma (LUAD) Extracellular Matrix (ECM) Signature Analysis, integrating risk score calculation, survival analysis, and unsupervised clustering visualization.(The manuscript is currently under review.)
 
