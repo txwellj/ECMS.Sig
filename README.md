@@ -24,7 +24,7 @@ Data validation and format checking to ensure analysis robustness
 
 ## Installation & Execution
 1. Dependencies
-Install required R packages first:
+Install required R packages first
 ```
 required_packages <- c("shiny", "shinythemes", "ggplot2", "survival", "survminer", 
                        "timeROC", "ggsci", "DT", "openxlsx")
